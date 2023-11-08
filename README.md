@@ -18,6 +18,8 @@ git push -u origin main -> Empurra os arquivos locais para o github, nosso repos
 9. Dar o git remote add origin *https://github.com/iTBKG/nome-do-repositorio*
 10. Dar o git push -u origin main
 
+
+git pull - Puxa as alterações do repositório do GitHub para nosso repositório local
 Posso dar git add . - para adicionar todos arquivos que foram alterados
 Depois não é necessário dar git push -u origin main, posso mandar apenas git push
 
