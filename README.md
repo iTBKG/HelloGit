@@ -19,7 +19,7 @@ git push -u origin main -> Empurra os arquivos locais para o github, nosso repos
 10. Dar o git push -u origin main
 
 Posso dar git add . - para adicionar todos arquivos que foram alterados
-Depois não é necessário dar git push -u origin main, posso mandar apenas git push origin main
+Depois não é necessário dar git push -u origin main, posso mandar apenas git push
 
 
 Alteração (teste)
